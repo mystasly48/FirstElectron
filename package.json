@@ -13,6 +13,6 @@
   "author": "Maisu",
   "license": "MIT",
   "dependencies": {
-    "electron": "^5.0.2"
+    "electron": "^7.2.4"
   }
 }
